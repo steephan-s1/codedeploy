@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /assignment1/*
+  - source: /assignment1/
     destination: /var/www/html/
 hooks:
   BeforeInstall:
